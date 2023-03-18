@@ -1,0 +1,6 @@
+{
+    "sketch": "ArduinoLCD_I2C.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM5"
+}

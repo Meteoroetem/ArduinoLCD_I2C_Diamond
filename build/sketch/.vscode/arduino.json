@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\rotem\\Desktop\\Programming\\Arduino C++\\ArduinoLCD_I2C\\.vscode\\arduino.json"
+{
+    "sketch": "ArduinoLCD_I2C.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM5"
+}
